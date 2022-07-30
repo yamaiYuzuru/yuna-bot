@@ -1,0 +1,56 @@
+{
+  "fetching": "fetching...",
+  "errors": {
+    "noPerms": "You are lacking permissions to use this.",
+    "noAdmin": "You must be a administrator of Yunay to use this command here.",
+    "noNSFW": "You are not allowed to use this command here.",
+    "noCMD": "I can't find this command. Please check if you wrote this command right.",
+    "onCooldown": "You can't use this command right now please wait to use this command again.",
+    "noChannel": "Channel not given.",
+    "noDuration": "Duration not given.",
+    "noPrize": "Prize not given.",
+    "noWinners": "Winners not given.",
+    "noMsgID": "I can't find this message id. Please check if you gave me a message id to a giveaway.",
+    "noGiveaway": "You can't create or end a giveaway because you don't have the \"Giveaway\" role or you don't have the permission to manage guild."
+  },
+  "reactionroles": {
+    "create": "Create a new reaction role.",
+    "remove": "Remove a reaction role.",
+    "edit": "Edit a reaction role.",
+    "created": "The reaction role was created.",
+    "edited": "The reaction role was edited.",
+    "deleted": "The reaction role was deleted."
+  },
+  "help": {
+    "usageLegend": "[] => Must not, <> => must.",
+    "embedMSG": "```Please use the dropdown menu under this message to see in the commands in the categories.```\n`Note: The NSFW category shows only in NSFW marked channels.`"
+  },
+  "info": {
+    "title": "Information about Yuna",
+    "guilds": "Network-Guild count",
+    "users": "User count",
+    "commands": "Command count",
+    "aliases": "Aliases count",
+    "uptime": "Uptime"
+  },
+  "time": {
+    "day": "Day(s)",
+    "hour": "Hour(s)",
+    "minutes": "Minute(s)",
+    "seconds": "Second(s)"
+  },
+  "language": {
+    "choose": "Choose a language which the bot have for you, press on of the buttons below.",
+    "changed": "The language was changed to %lang%."
+  },
+  "giveaway": {
+    "create": {
+      "channel": "Channel: %channel%.",
+      "duration": "Duration: %duration%.",
+      "prize": "Prize: %prize%."
+    },
+    "end": {
+      "msg": "The giveaway with the id %id% was ended."
+    }
+  }
+}

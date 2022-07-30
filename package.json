@@ -1,0 +1,33 @@
+{
+  "name": "yuna",
+  "version": "0.0.1",
+  "description": "Ein kleiner aber feiner Discord Bot für das Sakuratree-Network.",
+  "main": "src/main.js",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "booru": "^2.6.1",
+    "discord-api-types": "^0.36.3",
+    "discord-giveaways": "^6.0.0",
+    "discord.js": "^14.1.1",
+    "discordutility": "^0.2.6",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.4.6",
+    "shortid": "^2.2.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.sakuratree.de/yuzuru/yuna.git"
+  },
+  "keywords": [
+    "DiscordJS",
+    "Discord.js-Bot",
+    "DiscordBot",
+    "Discord-Bot"
+  ],
+  "author": "yuzuru",
+  "license": "MIT"
+}

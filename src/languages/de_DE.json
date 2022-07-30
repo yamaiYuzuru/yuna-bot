@@ -1,0 +1,57 @@
+{
+  "fetching": "holen...",
+  "errors": {
+    "noPerms": "Dir fehlen die Rechte um dies durzuführen.",
+    "noAdmin": "Du musst ein Administrator von Yuna sein, um diesen Command zu benutzen.",
+    "noNSFW": "Du kannst diesen Command hier nicht benutzen.",
+    "noCMD": "Ich konnte diesen Command nicht finden, bitte überprüfe ob du diesen richtig geschrieben hast.",
+    "onCooldown": "Du kannst diesen command gerade nicht benutzen, bitte warte bis du den command erneut benutzen kannst.",
+    "noChannel": "Channel nicht gegeben.",
+    "noDuration": "Dauer nicht gegeben.",
+    "noPrize": "Preis nicht gegeben.",
+    "noWinners": "Keine gewinner angegeben.",
+    "noMsgID": "Ich konnte diese message ID nicht finden, bitte überprüfe ob du mir eine richtige zu einem giveaway gegeben hast.",
+    "noGiveaway": "Du kannst kein giveaway starten oder beenden, da dir die \"Giveaway\" Rolle fehlt oder dir die Berechtigung Server Verwalten fehlt."
+  },
+  "reactionroles": {
+    "create": "Erstelle eine reaktions Rolle.",
+    "remove": "Entferne eine reaktions Rolle.",
+    "edit": "Bearbeite eine reaktions Rolle.",
+    "created": "Die reaktions Rolle wurde erstellt.",
+    "edited": "Die reaktions Rolle wurde bearbeitet.",
+    "deleted": "Die reaktions Rolle wurde gelöscht."
+  },
+  "help": {
+    "usageLegend": "[] => keine Pflicht, <> => Pflicht.",
+    "embedMSG": "```Bitte benutze das dropdown menü unter dieser Nachricht um in die einzlenen Kategorien zu gucken.```\n`Notiz: Die NSFW Kategorie ist nur in NSFW maktierten channels sichtbar.`"
+  },
+  "info": {
+    "title": "Informationen über Yuna",
+    "guilds": "Netzwerk-Server Anzahl",
+    "users": "User Anzahl",
+    "commands": "Command Anzahl",
+    "aliases": "Anzahl der Aliase",
+    "uptime": "Laufzeit"
+  },
+  "time": {
+    "day": "Tag(e)",
+    "hour": "Stunde(n)",
+    "minutes": "Minute(n)",
+    "seconds": "Sekunde(n)"
+  },
+  "language": {
+    "choose": "Wähle eine Sprache aus die der Bot für dich haben soll, indem du auf die Knöpfe unten drückst.",
+    "changed": "Die Sprache wurde auf %lang% geändert."
+  },
+  "giveaway": {
+    "create": {
+      "channel": "Channel: %channel%.",
+      "duration": "Dauer: %duration%.",
+      "prize": "Preis: %prize%.",
+      "winners": "Gewinner: %winners%."
+    },
+    "end": {
+      "msg": "Das giveaway mit der ID %id% wurde beendet."
+    }
+  }
+}

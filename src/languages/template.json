@@ -1,0 +1,57 @@
+{
+  "fetching": "",
+  "errors": {
+    "noPerms": "",
+    "noAdmin": "",
+    "noNSFW": "",
+    "noCMD": "",
+    "onCooldown": "",
+    "noChannel": "",
+    "noDuration": "",
+    "noPrize": "",
+    "noWinners": "",
+    "noMsgID": "",
+    "noGiveaway": ""
+  },
+  "reactionroles": {
+    "create": "",
+    "remove": "",
+    "edit": "",
+    "created": "",
+    "edited": "",
+    "deleted": ""
+  },
+  "help": {
+    "usageLegend": "",
+    "embedMSG": ""
+  },
+  "info": {
+    "title": "",
+    "guilds": "",
+    "users": "",
+    "commands": "",
+    "aliases": "",
+    "uptime": ""
+  },
+  "time": {
+    "day": "",
+    "hour": "",
+    "minutes": "",
+    "seconds": ""
+  },
+  "language": {
+    "choose": "",
+    "changed": ""
+  },
+  "giveaway": {
+    "create": {
+      "channel": "",
+      "duration": "",
+      "prize": "",
+      "winners": ""
+    },
+    "end": {
+      "msg": ""
+    }
+  }
+}
